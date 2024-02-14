@@ -3,6 +3,7 @@ package tp_git;
 import java.util.ArrayList;
 import java.util.List;
 
+#Ceci est du texte ajouté montrant la bonne modification du fichier
 public class System_hospitalier {
 
     private List<Requête> listRequetes;
